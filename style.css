@@ -922,7 +922,7 @@ h6 { font-size: 1.125rem; }
 
 /* Hero Section */
 .hero {
-  background-image: url('assets/background.gif');
+  background-image: url('images/background.gif');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
