@@ -2,6 +2,7 @@
 const dataJson = {
   "name": "Priyanshu Sil",
   "title": "Electronics & Communication Engineer",
+  "profilePhoto": "images/profile.jpg",
   "summary": "Electronics and Communication Engineering graduate with practical experience in embedded systems, VLSI design, and multi-layer PCB development. Passionate about delivering innovative hardware solutions.",
   "skills": ["Embedded System Design", "Control Systems & IoT", "VLSI & FPGA Development", "PCB Design", "Analog & Digital Circuits", "Signal Processing", "Communication Protocols", "Wireless Systems", "Team Leadership"],
   "education": {
