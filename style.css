@@ -829,6 +829,7 @@ body {
   background-color: var(--electronics-dark);
   background-image: url('images/background.gif');
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   position: relative;
