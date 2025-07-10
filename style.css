@@ -922,18 +922,26 @@ h6 { font-size: 1.125rem; }
 
 /* Hero Section */
 .hero {
-  min-height: 100vh;
+  background-image: url('assets/background.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 350px; /* Adjust as needed */
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
+  color: #fff; /* For text contrast */
   position: relative;
-  background: linear-gradient(135deg, var(--light-gray) 0%, #e2e8f0 100%);
+
 }
 
 .hero-content {
-  max-width: 800px;
-  padding: 0 20px;
+  z-index: 1;
+  text-align: center;
+  /* Optional: add background overlay for readability */
+  background: rgba(0, 0, 0, 0.5);
+  padding: 2rem 3rem;
+  border-radius: 12px;
 }
 
 .hero-title {
