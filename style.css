@@ -827,7 +827,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: var(--electronics-dark);
-  background-image: url('https://i.imgur.com/RUhS3wO.gif');
+  background-image: url('images/background.gif');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
