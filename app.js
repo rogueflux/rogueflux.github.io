@@ -21,7 +21,11 @@ const portfolioData = {
       "institution": "Manipal Institute of Technology",
       "dates": "Sept 2022 – July 2026",
       "minor": "Embedded Systems",
-      "details": "Specialized in Embedded Systems with hands-on experience in RTOS, ARM Cortex MCUs, and FPGA programming. Developed Verilog-based logic blocks and tested digital designs using Vivado & EDA Playground."
+      "details": ["Led embedded systems projects using Arduino, ESP32, and STM32 (e.g., line follower bot, WALRUS)",
+                  "Designed multi-layer PCBs using KiCad, EasyEDA, and Altium, optimizing signal integrity and EMI", 
+                  "Developed wireless systems for RC cars and drones with LoRa, ESP32, and UART/I2C/SPI/CAN protocols", 
+                  "Simulated electronic circuits using Multisim, LTSpice, and Proteus to enhance design accuracy",
+                  "Negotiated contracts with suppliers to secure favorable terms for materials procurement"]
     }
   ],
   "experience": [
@@ -43,11 +47,13 @@ const portfolioData = {
       "dates": "May 2024 – July 2024",
       "responsibilities": [
         "Gained hands-on experience with SCADA systems, MPLS-TP networks, L2/L3 switch and firewall setup",
-        "Assisted in configuring FRTUs, modems, and secure telephony using IEC61850/104 protocols",
-        "Worked on real-time data acquisition, OTDR testing, fiber splicing, and antenna installations"
+        "Assisted in configuring FRTUs, modems, and secure telephony using IEC61850/104 protocols", 
+        "Worked on real-time data acquisition, OTDR testing, fiber splicing, and antenna installations", 
+        "Explored substation automation, network management, and cybersecurity practices"
       ]
+      "link": "https://drive.google.com/file/d/1WAPkkxEUMpygHyz_JuLy1uS1WMBu-pZj/view",
     }
-  ],
+],
   "projects": [
     {
       "title": "WALRUS 2.0",
@@ -98,8 +104,9 @@ const portfolioData = {
     {
       "title": "Object-Oriented Programming Specialization",
       "issuer": "University of London",
-      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/",
-      "description": "Built a console-based cryptocurrency trading platform as the final project, applying object-oriented design principles using C++."
+      "link": "https://coursera.org/share/fbae0c56f65f3ee5f8e8788b8186a87f",
+      "description": " Built a console-based cryptocurrency trading platform as the final project, applying object-oriented design principles, file parsing, and control flow using C++"
+      "github": "https://github.com/rogueflux/Merkelrex_Crypto_Trading_Platform"
     },
     {
       "title": "MATLAB for Engineers: An Experiential Learning",
