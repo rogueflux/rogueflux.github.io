@@ -926,7 +926,7 @@ h6 { font-size: 1.125rem; }
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  min-height: 425px; /* Adjust as needed */
+  min-height: 450px; /* Adjust as needed */
   display: flex;
   align-items: center;
   justify-content: center;
