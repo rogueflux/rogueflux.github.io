@@ -1,0 +1,166 @@
+{
+  "personal_info": {
+    "name": "Priyanshu Sil",
+    "location": "Mumbai",
+    "email": "priyanshu.sil.201529@gmail.com",
+    "phone": "+91 9619808023",
+    "github": "https://github.com/rogueflux",
+    "linkedin": "https://www.linkedin.com/in/priyanshu-sil-b0a7551b0"
+  },
+  "personal_summary": "Electronics and Communication Engineering graduate with practical experience in embedded systems and VLSI design through academic projects and training at Rugved Systems. Proficient in multi-layer PCB design, signal integrity optimization, and hands-on FPGA and antenna design. Strong project coordination skills with a focus on delivering innovative solutions to real-world challenges.",
+  "skills": [
+    "Embedded System Design",
+    "Control systems and IoT",
+    "VLSI and FPGA Development",
+    "PCB Design and Hardware Prototyping",
+    "Analog and Digital Circuits Design",
+    "Signal Processing and MATLAB/Simulink",
+    "Communication Protocols and Wireless Systems",
+    "Team Management and Leadership"
+  ],
+  "education": {
+    "institution": "Manipal Institute of Technology",
+    "degree": "B. Tech in Electronics and Communications",
+    "period": "Sept 2022 \u2013 July 2026",
+    "minor": "Embedded Systems",
+    "highlights": [
+      "Specialized in Embedded Systems with hands-on experience in RTOS, ARM Cortex MCUs, and FPGA programming",
+      "Developed Verilog-based logic blocks and tested digital designs using Vivado & EDA Playground",
+      "Built and simulated analog circuits using Cadence; applied to real-world PCB projects",
+      "Practiced digital signal processing (DSP) using MATLAB and Simulink for system simulations"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Electronics Lead",
+      "company": "Rugved Systems",
+      "location": "Manipal, India",
+      "period": "Oct 2022 \u2013 Sept 2025",
+      "responsibilities": [
+        "Led embedded systems projects using Arduino, ESP32, and STM32 (e.g., line follower bot, WALRUS)",
+        "Designed multi-layer PCBs using KiCad, EasyEDA, and Altium, optimizing signal integrity and EMI",
+        "Developed wireless systems for RC cars and drones with LoRa, ESP32, and UART/I2C/SPI/CAN protocols",
+        "Simulated electronic circuits using Multisim, LTSpice, and Proteus to enhance design accuracy",
+        "Negotiated contracts with suppliers to secure favorable terms for materials procurement"
+      ]
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Tata Power Communications",
+      "location": "India",
+      "period": "May 2024 \u2013 July 2024",
+      "certificate": "Tata Power Communications",
+      "responsibilities": [
+        "Gained hands-on experience with SCADA systems, MPLS-TP networks, L2/L3 switch and firewall setup",
+        "Assisted in configuring FRTUs, modems, and secure telephony using IEC61850/104 protocols",
+        "Worked on real-time data acquisition, OTDR testing, fiber splicing, and antenna installations",
+        "Explored substation automation, network management, and cybersecurity practices"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "name": "Object-Oriented Programming Specialization",
+      "certificate": "OOPS University of London",
+      "description": "Built a console-based cryptocurrency trading platform as the final project, applying object-oriented design principles, file parsing, and control flow using C++",
+      "github": "Crypto Trading Platform"
+    },
+    {
+      "name": "MATLAB for Engineers: An Experiential Learning",
+      "certificate": "MATLAB for Engineers",
+      "description": "Gained hands-on exposure to AppDesigner, IoT, DSP, control systems, embedded coding, and ML workflows through 14 expert-led sessions"
+    },
+    {
+      "name": "Arm Cortex-M Architecture and Software Development Specialization",
+      "certificate": "ARM Certificate",
+      "description": "Gained in-depth knowledge of Cortex-M architecture, embedded C programming, exception handling, memory-mapped I/O, and low-level firmware development for real-time applications"
+    }
+  ],
+  "projects": [
+    {
+      "name": "WALRUS 2.0",
+      "company": "Rugved Systems",
+      "description": "Through DRDO problem statements, developing an autonomous, all-terrain bot with custom Power distribution board and BMS system, STM32-based GPR for landmine detection with Bowtie and Vivaldi antennas, Jetson-based encrypted communication system using LoRa, and GPS Dead-Reckoning System",
+      "tools": [
+        "LTSpice",
+        "Cadence",
+        "Ansys",
+        "STM32CubeIDE",
+        "ROS2",
+        "Chirpstack"
+      ],
+      "github": null
+    },
+    {
+      "name": "Maritime Surveillance System",
+      "company": "Manipal",
+      "description": "Designed a low-power, embedded AI system for real-time submarine detection using STM32H750, OV7670 camera, FreeRTOS, and lightweight CNN inference with STM32Cube.AI",
+      "tools": [
+        "Embedded C",
+        "STM32CubeIDE",
+        "Yolo Object Detection",
+        "DSP Video Segmentation",
+        "FreeRTOS"
+      ],
+      "github": "Maritime Surveillance System"
+    },
+    {
+      "name": "Gunshot Detection System using FPGA",
+      "company": "Rugved Systems",
+      "description": "Implemented a FPGA-based real-time gunshot detection system using DSP techniques (FFT, filtering, thresholding) to identify gunshots from acoustic signals with low-latency response",
+      "tools": [
+        "System Verilog",
+        "Opamps",
+        "CNN",
+        "Digital Signal Processing for Audio"
+      ],
+      "github": "FPGA Gunshot Detection System"
+    },
+    {
+      "name": "Human-Tracking Drone",
+      "company": "Rugved Systems",
+      "description": "Worked on a drone with built-in Jetson Mini and RealSense camera for human tracking system. Communicates with base using MAVLINK protocol and ESP-32 LORA system for data transmission",
+      "tools": [
+        "ROS",
+        "ESP32",
+        "LoRa Communications",
+        "I2C",
+        "SPI",
+        "Mission Planner"
+      ],
+      "github": null
+    }
+  ],
+  "competitions": [
+    {
+      "name": "Technoxian Fastest Line Follower 2023",
+      "description": "Built a high-speed line follower bot using an 8-IR sensor array, Arduino Uno, L293N motor driver, and 11.1V LiPo battery; implemented binary-coded sensor logic to handle various turns via a case-switch structure",
+      "tools": [
+        "Sensor Calibration",
+        "PID",
+        "KiCad"
+      ],
+      "github": "Technoxian Line Follower"
+    },
+    {
+      "name": "BITS Quark RoboRace 2024",
+      "description": "Used Flysky FS-i6X 2.4GHz 6CH AFHDS 2A RC transmitter with FS-iA10B 2.4GHz 10CH receiver controlled by an Arduino Nano; motors controlled by L293N motor drivers",
+      "tools": [
+        "ArduinoIDE",
+        "Tx-Rx Communication"
+      ],
+      "github": "BITS Quark RoboRace"
+    },
+    {
+      "name": "E-Yantra Balancing Builder Bot 2025",
+      "description": "Participated in the first stage, Simulated a two-wheeled self-balancing robot in CoppeliaSim using control systems, embedded systems, 3D design, and Python for smart city infrastructure applications",
+      "tools": [
+        "CoppliaSim",
+        "Python",
+        "Control Systems",
+        "PID"
+      ],
+      "github": null
+    }
+  ]
+}
