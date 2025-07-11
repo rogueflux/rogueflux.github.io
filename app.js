@@ -51,7 +51,6 @@ const portfolioData = {
         "Worked on real-time data acquisition, OTDR testing, fiber splicing, and antenna installations", 
         "Explored substation automation, network management, and cybersecurity practices"
       ]
-      "link": "https://drive.google.com/file/d/1WAPkkxEUMpygHyz_JuLy1uS1WMBu-pZj/view",
     }
 ],
   "projects": [
@@ -106,7 +105,6 @@ const portfolioData = {
       "issuer": "University of London",
       "link": "https://coursera.org/share/fbae0c56f65f3ee5f8e8788b8186a87f",
       "description": " Built a console-based cryptocurrency trading platform as the final project, applying object-oriented design principles, file parsing, and control flow using C++"
-      "github": "https://github.com/rogueflux/Merkelrex_Crypto_Trading_Platform"
     },
     {
       "title": "MATLAB for Engineers: An Experiential Learning",
