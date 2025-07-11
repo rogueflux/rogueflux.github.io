@@ -3,7 +3,8 @@ const portfolioData = {
   "name": "Priyanshu Sil",
   "occupation": "Final-Year Electronics & Communication Student · Embedded Systems Specialist",
   "location": "Mumbai",
-  "summary": "Electronics and Communication Engineering graduate with practical experience in embedded systems and VLSI design through academic projects and training at Rugved Systems. Proficient in multi-layer PCB design, signal integrity optimization, and hands-on FPGA and antenna design. Strong project coordination skills with a focus on delivering innovative solutions to real-world challenges.",
+  "summary": "Electronics and Communication Engineering Student with practical experience in embedded systems and VLSI design through academic projects and training at Rugved Systems. Proficient in multi-layer PCB design, signal integrity optimization, and hands-on FPGA and antenna design. Strong project coordination skills with a focus on delivering innovative solutions to real-world challenges.",
+  "photo": "images/profile.jpg",
   "skills": [
     "Embedded System Design",
     "Control systems and IoT",
